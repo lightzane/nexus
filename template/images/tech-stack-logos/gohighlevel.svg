@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="GoHighLevel">
+  <!-- Yellow (left) — full height -->
+  <path d="M6.2 3 10.2 7 7.6 7 7.6 21 4.8 21 4.8 7 2.2 7Z" fill="#F2C230" />
+  <path d="M4.8 7 7.6 7 7.6 9Z" fill="#9C7414" />
+  <!-- Green (right) — full height, same as yellow -->
+  <path d="M17.8 3 21.8 7 19.2 7 19.2 21 16.4 21 16.4 7 13.8 7Z" fill="#3DBA4E" />
+  <path d="M16.4 7 19.2 7 19.2 9Z" fill="#1F702C" />
+  <!-- Blue (middle) — shorter top, bottom aligned with the others, in front -->
+  <path d="M12 8 16 12 13.4 12 13.4 21 10.6 21 10.6 12 8 12Z" fill="#2E9BF0" />
+  <path d="M10.6 12 13.4 12 13.4 14Z" fill="#154A77" />
+</svg>
