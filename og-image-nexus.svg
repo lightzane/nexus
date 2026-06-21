@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="ogTile" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf" />
+      <stop offset="0.55" stop-color="#14b8a6" />
+      <stop offset="1" stop-color="#0d9488" />
+    </linearGradient>
+    <linearGradient id="ogSheen" x1="16" y1="1" x2="16" y2="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="ogGlow" cx="240" cy="315" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d9488" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#0d9488" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#030712" />
+  <rect width="1200" height="630" fill="url(#ogGlow)" />
+
+  <g transform="translate(110 185) scale(8.125)">
+    <rect width="32" height="32" rx="8" fill="url(#ogTile)" />
+    <rect width="32" height="32" rx="8" fill="url(#ogSheen)" />
+    <g fill="#ffffff">
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(0 16 16) translate(9.7 0)" />
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(60 16 16) translate(9.7 0)" />
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(120 16 16) translate(9.7 0)" />
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(180 16 16) translate(9.7 0)" />
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(240 16 16) translate(9.7 0)" />
+      <ellipse cx="16" cy="16" rx="4.8" ry="2.3" transform="rotate(300 16 16) translate(9.7 0)" />
+      <circle cx="16" cy="16" r="4.5" />
+    </g>
+  </g>
+
+  <text
+    x="460"
+    y="277"
+    font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="104"
+    font-weight="800"
+    fill="#ffffff"
+  >Nexus</text>
+
+  <text
+    x="462"
+    y="340"
+    font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="34"
+    font-weight="600"
+    fill="#2dd4bf"
+  >Project Showcase Hub</text>
+
+  <text
+    x="462"
+    y="392"
+    font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="24"
+    font-weight="400"
+    fill="#9ca3af"
+  >A growing collection of polished</text>
+  <text
+    x="462"
+    y="424"
+    font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="24"
+    font-weight="400"
+    fill="#9ca3af"
+  >portfolio showcases.</text>
+</svg>
